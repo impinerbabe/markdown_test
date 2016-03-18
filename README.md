@@ -1,5 +1,6 @@
+###Project Euler problem 1(python solution)
+Multiples-of-3-and-5
 
-##### Python exercise #1 
 Link: Project Euler <https://projecteuler.net/problem=1>
 
 **Description**: If we list all the natural numbers below 10 that are multiples of 3 or 5. we get 3, 5, 6 and 9. The sum of these 			 multiples is 23.
