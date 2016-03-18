@@ -1,10 +1,10 @@
 
 ###### Python exercise #1 
-Project Euler <https://projecteuler.net/problem=1>
+Link: Project Euler <https://projecteuler.net/problem=1>
 
-Description: If we list all the natural numbers below 10 that are multiples of 3 or 5. we get 3, 5, 6 and 9. The sum of these multiples is 23.
+**Description**: If we list all the natural numbers below 10 that are multiples of 3 or 5. we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
-Problem: Find the sum of all the multiples of 3 or 5 below 1000.'''
+**Problem**: Find the sum of all the multiples of 3 or 5 below 1000.'''
 
 ```python
 #creat a empty list to hold number from the loop and the initial sum seted to 0.
@@ -22,5 +22,5 @@ for each in list:
 	sum += each
 print sum
 ```
-the result will print 233168
-###### Completed on Thu, 10 Mar 2016, 05:47
+**Result**: 233168
+Completed on Thu, 10 Mar 2016, 05:47
