@@ -1,15 +1,13 @@
-# markdown_test
-first python code with markdown
-####My first python exercise
 
+###### Python exercise #1 
+Project Euler <https://projecteuler.net/problem=1>
 
-######If we list all the natural numbers below 10 that are multiples of 3 or 5, <br>
-we get 3, 5, 6 and 9. The sum of these multiples is 23.
+Description: If we list all the natural numbers below 10 that are multiples of 3 or 5. we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
-Find the sum of all the multiples of 3 or 5 below 1000.'''
+Problem: Find the sum of all the multiples of 3 or 5 below 1000.'''
 
-creat a empty list to hold number from the loop and the initial sum seted to 0.
 ```python
+#creat a empty list to hold number from the loop and the initial sum seted to 0.
 list = []
 sum = 0
 
